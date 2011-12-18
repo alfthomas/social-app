@@ -5,5 +5,9 @@
     <string name="show_pref">Show Preferences</string>
     <string name="change_pref">Change Preferences</string>
     <string name="pref">Preferences</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="user_name_key">username</string>
+    <string name="password_key">password</string>    
 
 </resources>
