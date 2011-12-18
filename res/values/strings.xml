@@ -4,5 +4,6 @@
     <string name="app_name">Social App</string>
     <string name="show_pref">Show Preferences</string>
     <string name="change_pref">Change Preferences</string>
+    <string name="pref">Preferences</string>
 
 </resources>
